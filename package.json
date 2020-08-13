@@ -1,0 +1,17 @@
+{
+  "name": "lab7",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.14.0",
+    "nuxt-buefy": "^0.3.31",
+    "nuxt-i18n": "^6.13.8"
+  },
+  "devDependencies": {}
+}
